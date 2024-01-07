@@ -13,11 +13,9 @@ The project is organized with the following structure:
 - **src/**
   - **chart/**
     - `realtime_chart.py`: Contains the `RealTimeChart` class for real-time data visualization.
-  - **database/**
-    - `sql_connector.py`: Contains the `SqlConnector` class for connecting to a SQLite database.
-  - **generator/**
-    - `data_generator.py`: Contains the `DataGenerator` class for generating random data.
-  - `main.py`: Main script to run the Tkinter application.
+  - **ui/**
+    - `main_window.py`: Contains the `RealTimeDataApp` class 
+
 
 ## Dependencies
 
@@ -29,3 +27,4 @@ Install the dependencies using the following command:
 
 ```bash
 pip install matplotlib numpy
+
