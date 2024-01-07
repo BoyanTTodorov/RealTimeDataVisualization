@@ -2,7 +2,9 @@
 
 This project demonstrates real-time data visualization using Tkinter for the user interface, SQLite for data storage, and Matplotlib for plotting.
 
-![Real-Time Chart](src\images\image.png)
+
+![Real-Time Chart](src/images/image.png)
+
 
 ## Project Structure
 
